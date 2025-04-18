@@ -148,9 +148,14 @@ spec:
 
 ![alt text](<https://raw.githubusercontent.com/darrenoshan/firuze-case-study/refs/heads/main/res4.png>)
 
+ 
+ برای نمایش متریک‌ها، داشبورد اختصاصی زیر برای گرافانا **Grafana** ساخته شده است .
 
-**Grafana** برای نمایش متریک‌ها از طریق داشبوردهای اختصاصی استفاده می‌شود.
+
 ![alt text](<https://raw.githubusercontent.com/darrenoshan/firuze-case-study/refs/heads/main/res5.png>)
+
+
+فایل JSON مربوط به داشبورد برنامه:
 
 ```json
 {
